@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about any stuff related to coding and ML.
 - 📫 How to reach me: Instagram: vinayk9119.
 - ⚡ Fun fact: I never give up.
+My Core Skills: C++,Python, Qt.
+other skills: C, Data Structures, DBMS, HTML, JAVASCRIPT, CSS.
 
 
 
