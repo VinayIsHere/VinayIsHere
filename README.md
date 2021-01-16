@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working in DRDO, Ministry Of Defense.
-- 🌱 I’m currently learning Machine learning.
-- 👯 I’m looking to collaborate on some sort of teaching the coding to people.
-- 💬 Ask me about any stuff related to coding and ML.
-- 📫 How to reach me: Instagram: vinayk9119.
-- ⚡ Fun fact: I never give up.
+- Currently working in ADE Banglore, DRDO.
 - My Core Skills: C++,Python, Qt.
+- My Highest Qualification: Diploma in Computer Engineering and currently Pursuing BCA.
 - other skills: C, Data Structures, DBMS, HTML, JAVASCRIPT, CSS.
+- Currently living in Banglore
+- How to reach me? 
+***INSTAGRAM***: ```vinayk91119```
 
 
 
