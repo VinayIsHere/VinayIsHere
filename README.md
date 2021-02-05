@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 - Currently working in ADE Banglore, DRDO.
 - My Core Skills: C++,Python, Qt.
 - other skills: C, Data Structures, DBMS, HTML, JAVASCRIPT, CSS.
