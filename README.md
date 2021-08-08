@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- Currently working in ADE Banglore, DRDO.
-- My Core Skills: C++,Python, Qt.
-- other skills: C, Data Structures, DBMS, HTML, JAVASCRIPT, CSS.
+- Currently working in Mistral Solutions as a Software Design Engineer.
+- My Core Skills: C/C++,Python, Qt.
+- other skills: Data Structures, DBMS, HTML, JAVASCRIPT, CSS.
 - My Highest Qualification: Diploma in Computer Engineering and currently Pursuing BCA.
 - Currently living in Banglore
 - How to reach me? 
