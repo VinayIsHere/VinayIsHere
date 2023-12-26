@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-- Currently working as a Software Design Engineer in Mistral Solutions.
-- My Core Skills: C/C++,Python, Qt.
+- Currently working as a Engineer I, Software in Harman International
+- My Core Skills: C/C++,Python, Qt, C#.
 - other skills: Data Structures, DBMS, HTML, JAVASCRIPT, CSS.
-- My Highest Qualification: Diploma in Computer Engineering and currently Pursuing BCA.
+- My Highest Qualification: BCA and Diploma in Computer Sceince
 - Currently living in Banglore
 - How to reach me? 
-***INSTAGRAM***: ```vinayk9119```
+***INSTAGRAM***: ```vinay.k.shukla```
 
 
 
