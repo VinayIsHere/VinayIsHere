@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - other skills: Data Structures, DBMS, HTML, JAVASCRIPT, CSS.
 - My Highest Qualification: BCA and Diploma in Computer Sceince
 - Currently living in Banglore
-- How to reach me? 
-***INSTAGRAM***: ```vinay.k.shukla```
 
 
 
